@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "66e28c672749b039efaf1b5d"
+  },
+  "Masv": "sv001",
+  "Hoten": "Đỗ Nhật Lâm",
+  "Ngonngu": [
+    "Tiếng Anh",
+    "Tiếng Nga"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e28cc22749b039efaf1b5e"
+  },
+  "Masv": "sv002",
+  "Hoten": "Trần Minh",
+  "Ngonngu": [
+    "Tiếng Nhật",
+    "Tiếng Anh",
+    "Tiếng Ý"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e28cc22749b039efaf1b5f"
+  },
+  "Masv": "sv003",
+  "Hoten": "Phạm Tuấn",
+  "Email": "tmn@gmail.com",
+  "Lop": {
+    "Malop": "l01",
+    "Tenlop": "08DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 9
+    },
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 2,
+      "Diem": 9
+    },
+    {
+      "Mamh": "m003",
+      "Tenmh": "Công nghệ phần mềm",
+      "Sotc": 3,
+      "Diem": 8.5
+    }
+  ],
+  "Ngaysinh": {
+    "$date": "2001-04-14T00:00:00.000Z"
+  },
+  "Phai": "Nam",
+  "Ngonngu": [
+    "Tiếng Pháp",
+    "Tiếng Đức"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e291f2f0dcf94e88644f52"
+  },
+  "Masv": "sv004",
+  "Hoten": "Trần Minh Nghĩa",
+  "Ngaysinh": {
+    "$date": "2001-04-14T00:00:00.000Z"
+  },
+  "Email": "tmn@gmail.com",
+  "Phai": "Nam",
+  "Lop": {
+    "Malop": "l01",
+    "Tenlop": "08DHTH"
+  },
+  "Monhoc": [
+    {
+      "Mamh": "m001",
+      "Tenmh": "Cơ sở dữ liệu",
+      "Sotc": 3,
+      "Diem": 7.5
+    },
+    {
+      "Mamh": "m002",
+      "Tenmh": "Toán cao cấp",
+      "Sotc": 2,
+      "Diem": 9
+    },
+    {
+      "Mamh": "m003",
+      "Tenmh": "Công nghệ phần mềm",
+      "Sotc": 3,
+      "Diem": 8.5
+    }
+  ],
+  "Ngonngu": [
+    "Tiếng Đức",
+    "Tiếng Nga",
+    "Tiếng Anh"
+  ]
+}]

@@ -1,0 +1,175 @@
+[
+  {
+    "_id": {
+      "$oid": "66deb434832b6ff0f77841d0"
+    },
+    "MaHoaDon": "HD001",
+    "NgayLap": {
+      "$date": "2023-03-12T00:00:00.000Z"
+    },
+    "KhachHang": {
+      "MaKH": "KH001",
+      "TenKH": "Nguyễn Văn A",
+      "DiaChi": "123 Bùi Đình Túy, Q BT, TPHCM"
+    },
+    "SanPhamBan": [
+      {
+        "MaSP": "SP001",
+        "TenSP": "Sản phẩm 1",
+        "SoLuong": 10,
+        "GiaBan": 200000,
+        "ThanhTien": 2000000
+      },
+      {
+        "MaSP": "SP002",
+        "TenSP": "Sản phẩm 2",
+        "SoLuong": 3,
+        "GiaBan": 300000,
+        "ThanhTien": 900000
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66deb434832b6ff0f77841d1"
+    },
+    "MaHoaDon": "HD002",
+    "NgayLap": {
+      "$date": "2021-04-15T00:00:00.000Z"
+    },
+    "KhachHang": {
+      "MaKH": "KH002",
+      "TenKH": "Trần Thị B",
+      "DiaChi": "456 Nguyễn Văn Cừ, Q5, TPHCM"
+    },
+    "SanPhamBan": [
+      {
+        "MaSP": "SP003",
+        "TenSP": "Sản phẩm 3",
+        "SoLuong": 2,
+        "GiaBan": 150000,
+        "ThanhTien": 300000
+      },
+      {
+        "MaSP": "SP001",
+        "TenSP": "Sản phẩm 1",
+        "SoLuong": 6,
+        "GiaBan": 200000,
+        "ThanhTien": 1200000
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66deb434832b6ff0f77841d2"
+    },
+    "MaHoaDon": "HD003",
+    "NgayLap": {
+      "$date": "2020-07-05T00:00:00.000Z"
+    },
+    "KhachHang": {
+      "MaKH": "KH001",
+      "TenKH": "Nguyễn Văn A",
+      "DiaChi": "123 Bùi Đình Túy, Q BT, TPHCM"
+    },
+    "SanPhamBan": [
+      {
+        "MaSP": "SP004",
+        "TenSP": "Sản phẩm 4",
+        "SoLuong": 1,
+        "GiaBan": 500000,
+        "ThanhTien": 500000
+      },
+      {
+        "MaSP": "SP002",
+        "TenSP": "Sản phẩm 2",
+        "SoLuong": 7,
+        "GiaBan": 300000,
+        "ThanhTien": 2100000
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66deb434832b6ff0f77841d3"
+    },
+    "MaHoaDon": "HD004",
+    "NgayLap": {
+      "$date": "2020-03-01T00:00:00.000Z"
+    },
+    "KhachHang": {
+      "MaKH": "KH003",
+      "TenKH": "Phạm Văn C",
+      "DiaChi": "789 Cộng Hòa, Q Tân Bình, TPHCM"
+    },
+    "SanPhamBan": [
+      {
+        "MaSP": "SP005",
+        "TenSP": "Sản phẩm 5",
+        "SoLuong": 4,
+        "GiaBan": 250000,
+        "ThanhTien": 1000000
+      },
+      {
+        "MaSP": "SP003",
+        "TenSP": "Sản phẩm 3",
+        "SoLuong": 8,
+        "GiaBan": 150000,
+        "ThanhTien": 1200000
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66deb434832b6ff0f77841d4"
+    },
+    "MaHoaDon": "HD005",
+    "NgayLap": {
+      "$date": "2021-05-30T00:00:00.000Z"
+    },
+    "KhachHang": {
+      "MaKH": "KH002",
+      "TenKH": "Trần Thị B",
+      "DiaChi": "456 Nguyễn Văn Cừ, Q5, TPHCM"
+    },
+    "SanPhamBan": [
+      {
+        "MaSP": "SP001",
+        "TenSP": "Sản phẩm 1",
+        "SoLuong": 2,
+        "GiaBan": 200000,
+        "ThanhTien": 400000
+      },
+      {
+        "MaSP": "SP002",
+        "TenSP": "Sản phẩm 2",
+        "SoLuong": 5,
+        "GiaBan": 300000,
+        "ThanhTien": 1500000
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66ebd1f90d427c4e265605af"
+    },
+    "MaHoaDon": "HD006",
+    "NgayLap": {
+      "$date": "2023-09-19T00:00:00.000Z"
+    },
+    "KhachHang": {
+      "MaKH": "KH001",
+      "TenKH": "Nguyễn Văn A",
+      "DiaChi": "123 Bùi Đình Túy, Q BT, TPHCM"
+    },
+    "SanPhamBan": [
+      {
+        "MaSP": "SP003",
+        "TenSP": "Sản phẩm 3",
+        "SoLuong": 2,
+        "GiaBan": 150000,
+        "ThanhTien": 300000
+      }
+    ]
+  }
+]

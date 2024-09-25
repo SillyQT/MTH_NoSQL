@@ -1,0 +1,184 @@
+[
+  {
+    "_id": {
+      "$oid": "66e2880af9ff51c1dae7a8c6"
+    },
+    "Masv": "SV001",
+    "Hoten": "Nguyễn Văn A",
+    "Ngaysinh": {
+      "$date": "2001-05-10T00:00:00.000Z"
+    },
+    "Phai": "Nam",
+    "Email": [
+      "nguyenvana@example.com"
+    ],
+    "NgoaiNgu": [
+      "Tiếng Anh",
+      "Tiếng Nhật"
+    ],
+    "Lop": {
+      "Malop": "L01",
+      "Tenlop": "Công nghệ thông tin 1"
+    },
+    "Monhoc": [
+      {
+        "Mamh": "MH001",
+        "Tenmh": "Lập trình C++",
+        "Sotc": 3,
+        "Diem": 8.5
+      },
+      {
+        "Mamh": "MH002",
+        "Tenmh": "Toán cao cấp",
+        "Sotc": 4,
+        "Diem": 7
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66e2880af9ff51c1dae7a8c7"
+    },
+    "Masv": "SV002",
+    "Hoten": "Trần Thị B",
+    "Ngaysinh": {
+      "$date": "2002-11-15T00:00:00.000Z"
+    },
+    "Phai": "Nữ",
+    "Email": [
+      "tranthib@example.com",
+      "tran.b@example.edu"
+    ],
+    "NgoaiNgu": [
+      "Tiếng Anh",
+      "Tiếng Nhật"
+    ],
+    "Lop": {
+      "Malop": "L02",
+      "Tenlop": "Khoa học máy tính 1"
+    },
+    "Monhoc": [
+      {
+        "Mamh": "MH003",
+        "Tenmh": "Cơ sở dữ liệu",
+        "Sotc": 3,
+        "Diem": 9
+      },
+      {
+        "Mamh": "MH004",
+        "Tenmh": "Hệ điều hành",
+        "Sotc": 3,
+        "Diem": 8
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66e2880af9ff51c1dae7a8c8"
+    },
+    "Masv": "SV003",
+    "Hoten": "Phạm Văn C",
+    "Ngaysinh": {
+      "$date": "2001-08-23T00:00:00.000Z"
+    },
+    "Phai": "Nam",
+    "Email": [
+      "phamvanc@example.com"
+    ],
+    "NgoaiNgu": [
+      "Tiếng Anh",
+      "Tiếng Nhật"
+    ],
+    "Lop": {
+      "Malop": "L01",
+      "Tenlop": "Công nghệ thông tin 1"
+    },
+    "Monhoc": [
+      {
+        "Mamh": "MH002",
+        "Tenmh": "Toán cao cấp",
+        "Sotc": 4,
+        "Diem": 7.5
+      },
+      {
+        "Mamh": "MH005",
+        "Tenmh": "Mạng máy tính",
+        "Sotc": 3,
+        "Diem": 6
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66e2880af9ff51c1dae7a8c9"
+    },
+    "Masv": "SV004",
+    "Hoten": "Lê Thị D",
+    "Ngaysinh": {
+      "$date": "2000-12-30T00:00:00.000Z"
+    },
+    "Phai": "Nữ",
+    "Email": [
+      "lethid@example.com"
+    ],
+    "NgoaiNgu": [
+      "Tiếng Anh",
+      "Tiếng Nhật"
+    ],
+    "Lop": {
+      "Malop": "L03",
+      "Tenlop": "Kỹ thuật phần mềm 1"
+    },
+    "Monhoc": [
+      {
+        "Mamh": "MH006",
+        "Tenmh": "Phát triển web",
+        "Sotc": 3,
+        "Diem": 8.8
+      },
+      {
+        "Mamh": "MH001",
+        "Tenmh": "Lập trình C++",
+        "Sotc": 3,
+        "Diem": 9.5
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "66e2880af9ff51c1dae7a8ca"
+    },
+    "Masv": "SV005",
+    "Hoten": "Đỗ Quang E",
+    "Ngaysinh": {
+      "$date": "2001-03-05T00:00:00.000Z"
+    },
+    "Phai": "Nam",
+    "Email": [
+      "doquange@example.com",
+      "quange@example.edu"
+    ],
+    "NgoaiNgu": [
+      "Tiếng Anh",
+      "Tiếng Nhật"
+    ],
+    "Lop": {
+      "Malop": "L04",
+      "Tenlop": "Khoa học dữ liệu 1"
+    },
+    "Monhoc": [
+      {
+        "Mamh": "MH007",
+        "Tenmh": "Học máy",
+        "Sotc": 4,
+        "Diem": 8
+      },
+      {
+        "Mamh": "MH008",
+        "Tenmh": "Trí tuệ nhân tạo",
+        "Sotc": 3,
+        "Diem": 7.5
+      }
+    ]
+  }
+]

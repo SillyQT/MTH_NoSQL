@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66e2a42767f56bd062329696"
+  },
+  "MaHD": "HD003",
+  "Ngaylap": {
+    "$date": "2021-02-25T00:00:00.000Z"
+  },
+  "Khachhang": {
+    "Makh": "KH003",
+    "Tenkh": "Đỗ Thanh Bình",
+    "Diachi": "TPHCM"
+  },
+  "Sanphamban": [
+    {
+      "Masp": "SP002",
+      "Tensp": "Sản phẩm 2",
+      "Soluong": 2,
+      "Giaban": 50000,
+      "Thanhtien": 100000
+    },
+    {
+      "Masp": "SP004",
+      "Tensp": "Sản phẩm 4",
+      "Soluong": 1,
+      "Giaban": 200000,
+      "Thanhtien": 200000
+    },
+    {
+      "Masp": "SP007",
+      "Tensp": "Sản phẩm 7",
+      "Soluong": 3,
+      "Giaban": 70000,
+      "Thanhtien": 210000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66e2a42767f56bd062329697"
+  },
+  "MaHD": "HD004",
+  "Ngaylap": {
+    "$date": "2024-09-03T00:00:00.000Z"
+  },
+  "Khachhang": {
+    "Makh": "KH004",
+    "Tenkh": "Nguyen Thi D",
+    "Diachi": "123 Đường P, Quận Q, TP R"
+  },
+  "Sanphamban": [
+    {
+      "Masp": "SP005",
+      "Tensp": "Sản phẩm 5",
+      "Soluong": 4,
+      "Giaban": 80000,
+      "Thanhtien": 320000
+    }
+  ]
+}]
