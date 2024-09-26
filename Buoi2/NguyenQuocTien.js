@@ -57,7 +57,7 @@ db.Hoadon.aggregate([
   },
 ]);
 
-// ---- 7.5
+// ---- 7.5 #khó
 // Hiển thị mã và tên những khách hàng có địa chỉ ở TPHCM
 db.Hoadon.aggregate([
   {
